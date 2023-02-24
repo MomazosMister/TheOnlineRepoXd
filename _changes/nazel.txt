@@ -1,0 +1,9 @@
+mods/data/nazel/dialogue.json
+mods/data/nazel/events.json
+mods/data/nazel/nazel-easy.json
+mods/data/nazel/nazel-hard.json
+mods/data/nazel/nazel.json
+mods/songs/nazel/Voices.ogg
+mods/songs/nazel/Inst.ogg
+mods/songs/nazel/voices.ogg
+mods/songs/nazel/inst.ogg

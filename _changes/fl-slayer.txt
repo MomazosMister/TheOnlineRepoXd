@@ -1,0 +1,6 @@
+mods/data/fl-slayer/events.json
+mods/data/fl-slayer/fl-slayer-hard.json
+mods/songs/fl-slayer/Voices.ogg
+mods/songs/fl-slayer/Inst.ogg
+mods/songs/fl-slayer/voices.ogg
+mods/songs/fl-slayer/inst.ogg

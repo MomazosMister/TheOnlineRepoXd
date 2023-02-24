@@ -1,0 +1,6 @@
+mods/data/fruity-reeverb-2/events.json
+mods/data/fruity-reeverb-2/fruity-reeverb-2-hard.json
+mods/songs/fruity-reeverb-2/Voices.ogg
+mods/songs/fruity-reeverb-2/Inst.ogg
+mods/songs/fruity-reeverb-2/voices.ogg
+mods/songs/fruity-reeverb-2/inst.ogg

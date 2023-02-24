@@ -1,0 +1,8 @@
+mods/data/haxxer/events.json
+mods/data/haxxer/haxxer-easy.json
+mods/data/haxxer/haxxer-hard.json
+mods/data/haxxer/haxxer.json
+mods/songs/haxxer/Voices.ogg
+mods/songs/haxxer/Inst.ogg
+mods/songs/haxxer/voices.ogg
+mods/songs/haxxer/inst.ogg

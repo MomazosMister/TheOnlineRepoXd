@@ -1,0 +1,8 @@
+mods/data/camel/camel-easy.json
+mods/data/camel/camel-hard.json
+mods/data/camel/camel.json
+mods/data/camel/events.json
+mods/songs/camel/Voices.ogg
+mods/songs/camel/Inst.ogg
+mods/songs/camel/voices.ogg
+mods/songs/camel/inst.ogg

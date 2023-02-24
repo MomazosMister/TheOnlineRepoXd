@@ -1,0 +1,6 @@
+mods/data/corruption/corruption-no-popup.json
+mods/data/corruption/corruption-normal.json
+mods/songs/corruption/Voices.ogg
+mods/songs/corruption/Inst.ogg
+mods/songs/corruption/voices.ogg
+mods/songs/corruption/inst.ogg

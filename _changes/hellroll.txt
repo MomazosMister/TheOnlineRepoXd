@@ -1,0 +1,7 @@
+mods/data/hellroll/events.json
+mods/data/hellroll/hellroll-hard.json
+mods/data/hellroll/hellroll-hell.json
+mods/songs/hellroll/Voices.ogg
+mods/songs/hellroll/Inst.ogg
+mods/songs/hellroll/voices.ogg
+mods/songs/hellroll/inst.ogg

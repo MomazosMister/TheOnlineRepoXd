@@ -1,0 +1,6 @@
+mods/data/leaxer/events.json
+mods/data/leaxer/leaxer-hard.json
+mods/songs/leaxer/Voices.ogg
+mods/songs/leaxer/Inst.ogg
+mods/songs/leaxer/voices.ogg
+mods/songs/leaxer/inst.ogg

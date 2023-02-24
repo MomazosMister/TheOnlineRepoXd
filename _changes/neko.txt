@@ -1,0 +1,10 @@
+mods/data/neko/dialogue.json
+mods/data/neko/dialogue_end.json
+mods/data/neko/events.json
+mods/data/neko/neko-easy.json
+mods/data/neko/neko-hard.json
+mods/data/neko/neko.json
+mods/songs/neko/Voices.ogg
+mods/songs/neko/Inst.ogg
+mods/songs/neko/voices.ogg
+mods/songs/neko/inst.ogg
